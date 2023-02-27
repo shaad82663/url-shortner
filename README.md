@@ -116,9 +116,9 @@ The REST API used in the code is described below.
 #### Sample Request (JSON)
 
     {
-    "longUrl" : "https://www.amazon.in/b?ie=UTF8&node=5257472031&pf_rd_r=VEY43F921TFYHZ3CT416&pf_rd_p=9ff36f11-82d6-4600-a8fb-e52bb32e171c&pd_rd_r=62fde1c3-fa6a-40d9-                  8483-5422c545ebdf&pd_rd_w=g2D39&pd_rd_wg=SdkMN&ref_=pd_gw_unk"
+    "longUrl" :  "https://www.geeksforgeeks.org/java-hello-world-program/"
     }
-
+ 
 ### Response
   
         HTTP/1.1 200 OK
