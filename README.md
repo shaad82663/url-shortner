@@ -154,7 +154,7 @@ The REST API used in the code is described below.
       
 ## Installation
 
-Web App requires [Node.js](https://nodejs.org/) to run.
+[Node.js](https://nodejs.org/) enviroment is required to run the code.
 [Git Bash](https://git-scm.com/) is suggested as a terminal.
 
 Install the dependencies and devDependencies.
